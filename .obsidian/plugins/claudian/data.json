@@ -1,9 +1,10 @@
 {
+  "pathToClaudeCodeExecutable": "C:\\Users\\yode0\\AppData\\Roaming\\Claude\\claude-code\\2.1.111\\claude.exe",
   "tabManagerState": {
     "openTabs": [
       {
         "tabId": "tab-1776254377878-ob42s00",
-        "conversationId": null
+        "conversationId": "conv-1776608901116-o415z6tyi"
       }
     ],
     "activeTabId": "tab-1776254377878-ob42s00"

@@ -19,7 +19,7 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "locale": "en",
+  "locale": "zh-TW",
   "providerConfigs": {
     "claude": {
       "safeMode": "acceptEdits",
@@ -42,9 +42,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethod": "native-windows",
-      "installationMethodsByHost": {},
-      "wslDistroOverride": "",
+      "installationMethodsByHost": {
+        "yodee": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     }
   },
