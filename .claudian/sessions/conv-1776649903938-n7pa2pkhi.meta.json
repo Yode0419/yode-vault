@@ -4,6 +4,21 @@
   "title": "I'd be happy to help you summarize the key poin...",
   "titleGenerationStatus": "success",
   "createdAt": 1776649903938,
-  "updatedAt": 1776649913751,
-  "sessionId": null
+  "updatedAt": 1776650007829,
+  "lastResponseAt": 1776650007828,
+  "sessionId": "2ffa2636-f3ec-4d35-b604-3d0b550c3a29",
+  "providerState": {
+    "providerSessionId": "2ffa2636-f3ec-4d35-b604-3d0b550c3a29"
+  },
+  "currentNote": "Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 851,
+    "cacheReadInputTokens": 19287,
+    "contextWindow": 200000,
+    "contextTokens": 20139,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
 }
