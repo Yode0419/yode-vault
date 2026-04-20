@@ -4,8 +4,8 @@
   "title": "Hello! 👋 \n\nI don't see a specific request or t...",
   "titleGenerationStatus": "success",
   "createdAt": 1776609784728,
-  "updatedAt": 1776649459891,
-  "lastResponseAt": 1776649459891,
+  "updatedAt": 1776649832758,
+  "lastResponseAt": 1776649832758,
   "sessionId": "2dd2b7e8-b830-4a88-852f-5c344daf0e55",
   "providerState": {
     "providerSessionId": "2dd2b7e8-b830-4a88-852f-5c344daf0e55"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 3681,
-    "cacheReadInputTokens": 14842,
+    "cacheCreationInputTokens": 942,
+    "cacheReadInputTokens": 21218,
     "contextWindow": 200000,
-    "contextTokens": 18524,
-    "percentage": 9,
+    "contextTokens": 22161,
+    "percentage": 11,
     "contextWindowIsAuthoritative": true
   }
 }
