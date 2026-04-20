@@ -178,11 +178,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 690.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "claudian:Open Claudian": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -192,7 +191,8 @@
       "bases:建立新的 base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "claudian:Open Claudian": false
     }
   },
   "active": "61b4b3436b3f7488",
