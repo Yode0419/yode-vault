@@ -1,19 +1,26 @@
 views:
   - type: kanban-view
     name: 檢視
+    order:
+      - file.name
+      - tags
     columnOrders:
       file.file:
-        - Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly) - 摘要.md
+        - 系列文章/文章 1.md
+        - 系列文章/文章 2.md
+        - 系列文章/文章 3.md
+        - 系列文章/文章 4.md
+        - 系列文章/未命名 1.base
+        - 未命名.md
+        - 未命名.base
+        - 測試手機上傳筆記.md
         - Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md
+        - Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly) - 摘要.md
         - Clippings/I Studied 1,460 Onboarding Flows - 摘要.md
         - Clippings/I Studied 1,460 Onboarding Flows. Here's What I Found.md
         - Clippings/Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧.md
-        - Test Kanban.md
         - skills-lock.json
-        - 未命名 1.base
-        - 未命名.base
-        - 測試手機上傳筆記.md
-        - 未命名.md
+        - Test Kanban.md
     cardOrders:
       file.file:
         Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md:
