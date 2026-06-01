@@ -33,9 +33,22 @@
               "icon": "lucide-file",
               "title": "Test Kanban"
             }
+          },
+          {
+            "id": "9258c296a936c870",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名 1.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5110321044922
+    "width": 300.5110321044922
   },
   "right": {
     "id": "f45ab6623779cd1d",
@@ -168,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Kanban.md",
+                "file": "未命名 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Test Kanban 的大綱"
+              "title": "未命名 1 的大綱"
             }
           },
           {
@@ -209,12 +222,13 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "2a8c759786aa779a",
+  "active": "9258c296a936c870",
   "lastOpenFiles": [
+    "未命名.base",
     "未命名 1.base",
     "Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md",
+    "未命名.md",
     "Test Kanban.md",
-    "未命名.base",
     "測試手機上傳筆記.md",
     "Clippings/Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧.md",
     "Clippings/I Studied 1,460 Onboarding Flows - 摘要.md",
