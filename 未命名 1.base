@@ -1,6 +1,4 @@
 views:
-  - type: table
-    name: 表格
   - type: kanban-view
     name: 檢視
     columnOrders:
@@ -21,3 +19,5 @@ views:
           - Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md
     columnColors:
       file.file: {}
+    imageAspectRatio: 0.55
+    wrapPropertyValues: false

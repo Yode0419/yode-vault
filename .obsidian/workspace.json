@@ -41,9 +41,9 @@
               "type": "bases",
               "state": {
                 "file": "未命名 1.base",
-                "viewName": "表格"
+                "viewName": "檢視"
               },
-              "icon": "lucide-table",
+              "icon": "columns",
               "title": "未命名 1"
             }
           }
