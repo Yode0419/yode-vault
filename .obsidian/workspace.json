@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/I Studied 1,460 Onboarding Flows. Here's What I Found.md",
+                "file": "Test Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "I Studied 1,460 Onboarding Flows. Here's What I Found 的大綱"
+              "title": "Test Kanban 的大綱"
             }
           },
           {
@@ -188,11 +188,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,13 +209,14 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "97695ab4ff1f931a",
+  "active": "2a8c759786aa779a",
   "lastOpenFiles": [
-    "未命名.base",
+    "未命名 1.base",
+    "Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md",
     "Test Kanban.md",
+    "未命名.base",
     "測試手機上傳筆記.md",
     "Clippings/Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧.md",
-    "Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly).md",
     "Clippings/I Studied 1,460 Onboarding Flows - 摘要.md",
     "Clippings/Design a Mobile App UI from SCRATCH in under 8 minutes (beginner friendly) - 摘要.md",
     "Clippings/I Studied 1,460 Onboarding Flows. Here's What I Found.md",
